@@ -1,0 +1,39 @@
+[INFO ] 2021-01-17 18:54:27.977 [restartedMain] TcubeBurgerApplication - Run Successfull!
+[INFO ] 2021-01-17 18:54:49.633 [http-nio-8080-exec-1] LocationController - FROM com.playground.tcubeBurger.controller.LocationController/getAllLocations() ---> streetName is null
+[INFO ] 2021-01-17 18:55:14.208 [http-nio-8080-exec-2] LocationController - FROM com.playground.tcubeBurger.controller.LocationController/getAllLocations() ---> streetName is not null
+[INFO ] 2021-01-17 18:55:14.259 [http-nio-8080-exec-2] LocationController - FROM com.playground.tcubeBurger.controller.LocationController/getAllLocations() ---> Location list empty
+[INFO ] 2021-01-17 18:55:36.459 [http-nio-8080-exec-3] LocationController - FROM com.playground.tcubeBurger.controller.LocationController/getAllLocations() ---> streetName is not null
+[INFO ] 2021-01-17 18:57:07.553 [http-nio-8080-exec-5] LocationController - FROM com.playground.tcubeBurger.controller.LocationController/createLocation() ---> Saving Location
+[INFO ] 2021-01-17 18:58:20.271 [http-nio-8080-exec-7] LocationController - FROM com.playground.tcubeBurger.controller.LocationController/updateLocation() ---> Updating Location of id: 6004ced32633d242c8442ce0
+[INFO ] 2021-01-17 18:58:33.972 [http-nio-8080-exec-8] LocationController - FROM com.playground.tcubeBurger.controller.LocationController/updateLocation() ---> No Location found with id: 6004ced32633d242c8442ce
+[INFO ] 2021-01-17 18:59:14.631 [http-nio-8080-exec-9] LocationController - FROM com.playground.tcubeBurger.controller.LocationController/deleteLocation() ---> Deleting Location with id: 6004ced32633d242c8442ce0
+[INFO ] 2021-01-17 18:59:21.809 [http-nio-8080-exec-10] LocationController - FROM com.playground.tcubeBurger.controller.LocationController/deleteLocation() ---> Deleting Location with id: 6004ced32633d242c8442c
+[INFO ] 2021-01-17 18:59:48.744 [http-nio-8080-exec-1] MenuController - FROM com.playground.tcubeBurger.controller.MenuController/getAllMenus() ---> itemName is null
+[INFO ] 2021-01-17 19:00:20.291 [http-nio-8080-exec-2] LocationController - FROM com.playground.tcubeBurger.controller.LocationController/getAllLocations() ---> streetName is null
+[INFO ] 2021-01-17 19:00:33.480 [http-nio-8080-exec-3] MenuController - FROM com.playground.tcubeBurger.controller.MenuController/getAllMenus() ---> itemName is not null
+[INFO ] 2021-01-17 19:00:41.414 [http-nio-8080-exec-4] MenuController - FROM com.playground.tcubeBurger.controller.MenuController/getAllMenus() ---> itemName is not null
+[INFO ] 2021-01-17 19:00:41.422 [http-nio-8080-exec-4] MenuController - FROM com.playground.tcubeBurger.controller.MenuController/getAllMenus() ---> menuList is empty
+[INFO ] 2021-01-17 19:01:39.364 [http-nio-8080-exec-5] MenuController - FROM com.playground.tcubeBurger.controller.MenuController/createMenu() ---> Saving Menu
+[INFO ] 2021-01-17 19:02:36.204 [http-nio-8080-exec-6] MenuController - FROM com.playground.tcubeBurger.controller.MenuController/updateMenu() ---> Updating Veg Pizza
+[INFO ] 2021-01-17 19:02:43.996 [http-nio-8080-exec-7] MenuController - FROM com.playground.tcubeBurger.controller.MenuController/updateMenu() --->Veg not found
+[INFO ] 2021-01-17 19:03:48.372 [http-nio-8080-exec-9] MenuController - FROM com.playground.tcubeBurger.controller.MenuController/deleteMenu() ---> Deleting Veg Pizza
+[INFO ] 2021-01-17 19:03:54.775 [http-nio-8080-exec-10] MenuController - FROM com.playground.tcubeBurger.controller.MenuController/deleteMenu() ---> Deleting Veg Pizza
+[INFO ] 2021-01-17 19:04:20.455 [http-nio-8080-exec-1] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/getAllPartyReservations() ---> partyType is null
+[INFO ] 2021-01-17 19:04:52.938 [http-nio-8080-exec-2] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/getAllPartyReservations() ---> partyType is null
+[INFO ] 2021-01-17 19:04:59.406 [http-nio-8080-exec-3] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/getAllPartyReservations() ---> partyType is null
+[INFO ] 2021-01-17 19:05:46.099 [http-nio-8080-exec-4] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/getAllPartyReservations() ---> partyType is not null
+[INFO ] 2021-01-17 19:05:46.103 [http-nio-8080-exec-4] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/getAllPartyReservations() ---> partyReservationList is empty
+[INFO ] 2021-01-17 19:07:05.286 [http-nio-8080-exec-6] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/createPartyReservations() ---> Saving Party
+[INFO ] 2021-01-17 19:08:21.086 [http-nio-8080-exec-8] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/updatePartyReservations() ---> Updating:Corporate Event
+[INFO ] 2021-01-17 19:08:29.886 [http-nio-8080-exec-9] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/updatePartyReservations() --->Corporat not found
+[INFO ] 2021-01-17 19:08:57.410 [http-nio-8080-exec-10] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/deletePartyReservations() ---> DeletingCorporate Event
+[INFO ] 2021-01-17 19:09:01.928 [http-nio-8080-exec-1] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/deletePartyReservations() ---> DeletingCorporate Event
+[INFO ] 2021-01-17 19:10:42.121 [http-nio-8080-exec-3] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/deletePartyReservations() ---> DeletingCorporate Event
+[INFO ] 2021-01-17 19:12:18.534 [restartedMain] TcubeBurgerApplication - Run Successfull!
+[INFO ] 2021-01-17 19:12:31.737 [restartedMain] TcubeBurgerApplication - Run Successfull!
+[INFO ] 2021-01-17 19:12:41.822 [restartedMain] TcubeBurgerApplication - Run Successfull!
+[INFO ] 2021-01-17 19:12:48.864 [restartedMain] TcubeBurgerApplication - Run Successfull!
+[INFO ] 2021-01-17 19:12:57.130 [restartedMain] TcubeBurgerApplication - Run Successfull!
+[INFO ] 2021-01-17 19:13:08.324 [restartedMain] TcubeBurgerApplication - Run Successfull!
+[INFO ] 2021-01-17 19:13:17.368 [restartedMain] TcubeBurgerApplication - Run Successfull!
+[INFO ] 2021-01-17 19:13:31.263 [http-nio-8080-exec-1] PartyReservationController - FROM com.playground.tcubeBurger.controller.PartyReservationController/deletePartyReservations() ---> DeletingCorporate Event
